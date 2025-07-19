@@ -356,4 +356,4 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
           box-shadow: 0 0 20px rgba(255, 0, 255, 0.3),
             inset 0 0 20px rgba(255, 0, 255, 0.1);
         }
-      `})]})}function Jv(){return U.jsx(U.Fragment,{children:U.jsx("div",{className:"app",children:U.jsx(qy,{children:U.jsx(n0,{path:"/",element:U.jsx(Kv,{})})})})})}Km.createRoot(document.getElementById("root")).render(U.jsx(Ym.StrictMode,{children:U.jsx(iv,{children:U.jsx(Jv,{})})}));
+      `})]})}function Jv(){return U.jsx(U.Fragment,{children:U.jsx("div",{className:"app",children:U.jsx(qy,{children:U.jsx(n0,{path:"/",element:U.jsx(Kv,{})})})})})}Km.createRoot(document.getElementById("root")).render(U.jsx(Ym.StrictMode,{children:U.jsx(iv,{basename:"/NewPortfolio",children:U.jsx(Jv,{})})}));
